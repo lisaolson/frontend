@@ -65,11 +65,10 @@
 .hiddentext {
 	visibility: hidden;
     color: #fff;
-    font-size: 15px;
+    font-size: 20px;
     font-family: "Helvetica Neue",Helvetica,sans-serif;
     font-weight: normal;
     font-family: "freight-text-pro";
-    font-size: 33px;
     line-height: 1.4em;
     text-transform: none;
     letter-spacing: 0px;
@@ -79,11 +78,20 @@
     padding: 0 24px;
 }
 
+.viewproj {
+	color: #474747;
+	font-size: 15px;
+}
+
 .hiddenlink {
 	width: 100%;
     height: 100%;
     text-align: center;
     line-height: 250px;	
+}
+
+.hiddenlink:hover {
+	text-decoration: none;
 }
 
 .pictures {
@@ -109,19 +117,57 @@
 #second {
     background-image: url("arch.png");
 }
+
+#second:hover {
+    background: #000;
+    transition: 0.5s;
+}
+#second:hover .hiddentext {
+    visibility: visible;
+}
+
 #third {
     background-image: url("rose.png");
+}
+#third:hover {
+    background: #000;
+    transition: 0.5s;
+}
+#third:hover .hiddentext {
+	visibility: visible;
 }
 
 #fourth {
     background-image: url("soccer.png");
 }
+#fourth:hover {
+    background: #000;
+    transition: 0.5s;
+}
+#fourth:hover .hiddentext {
+    visibility: visible;
+}
+
 #fifth {
     background-image: url("mag.png");
+}
+#fifth:hover {
+    background: #000;
+    transition: 0.5s;
+}
+#fifth:hover .hiddentext {
+    visibility: visible;
 }
 
 #sixth {
     background-image: url("clock.png");
+}
+#sixth:hover {
+    background: #000;
+    transition: 0.5s;
+}
+#sixth:hover .hiddentext {
+    visibility: visible;
 }
 
 .row-container {
