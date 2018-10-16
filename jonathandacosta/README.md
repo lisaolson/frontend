@@ -7,4 +7,5 @@ This is a recreation of http://www.jonathandacosta.com/ as shown below.  The fir
 - Bootstrap
 - JavaScript
 
-#### Author | @eunoia_lo
+#### Author
+Lisa Olson | @eunoia_lo
