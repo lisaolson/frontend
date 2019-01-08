@@ -103,7 +103,7 @@
 }
 
 #first {
-	background-image: url("chloe.png");
+	background-image: url("/Users/lisa/frontend/jonathandacosta/chloe.png");
 }
 
 #first:hover {
@@ -115,7 +115,7 @@
 }
 
 #second {
-    background-image: url("arch.png");
+    background-image: url("/Users/lisa/frontend/jonathandacosta/arch.png");
 }
 
 #second:hover {
@@ -127,7 +127,7 @@
 }
 
 #third {
-    background-image: url("rose.png");
+    background-image: url("/Users/lisa/frontend/jonathandacosta/rose.png");
 }
 #third:hover {
     background: #000;
@@ -138,7 +138,7 @@
 }
 
 #fourth {
-    background-image: url("soccer.png");
+    background-image: url("/Users/lisa/frontend/jonathandacosta/soccer.png");
 }
 #fourth:hover {
     background: #000;
@@ -149,7 +149,7 @@
 }
 
 #fifth {
-    background-image: url("mag.png");
+    background-image: url("/Users/lisa/frontend/jonathandacosta/mag.png");
 }
 #fifth:hover {
     background: #000;
@@ -160,7 +160,7 @@
 }
 
 #sixth {
-    background-image: url("clock.png");
+    background-image: url("/Users/lisa/frontend/jonathandacosta/clock.png");
 }
 #sixth:hover {
     background: #000;
