@@ -3,7 +3,7 @@ This is a recreation of http://www.jonathandacosta.com/ as shown below.  The fir
 
 Original          |  Mine
 :-------------------------:|:-------------------------:
-<img src="https://raw.githubusercontent.com/lisaolson/frontend/master/jennyJohannesson/original.png" /> | <img src="https://raw.githubusercontent.com/lisaolson/frontend/master/jennyJohannesson/rendition.png" />
+<img src="https://raw.githubusercontent.com/lisaolson/frontend/master/jennyJohannesson/original.png" /> | <img src="https://raw.githubusercontent.com/lisaolson/frontend/master/jennyJohannesson/rendition2.png" />
 
 ### Technologies
 - HTML5
