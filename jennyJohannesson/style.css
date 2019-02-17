@@ -4,12 +4,13 @@
 }
 
 h1.name {
-    font-family: 'Gentium Book Basic', serif;
+    font-family: 'Old Standard TT', serif;
     position: absolute;
     background: -webkit-linear-gradient(#F2A9C0, transparent);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 20rem;
+    font-weight: 900;
 }
 .opener {
     height: 100vh;
@@ -55,18 +56,18 @@ img.jenny {
     left: 5rem;
 }
 #e {
-    left: 10rem;
-    top: 4.5rem;
+    left: 13rem;
+    top: 4rem;
 }
 #n {
-    left: 19rem;
-    top: 7rem;
+    left: 22rem;
+    top: 6rem;
 }
 #nn {
-    top: 15rem;
+    top: 11rem;
     left: 5rem;
 }
 #y {
-    top: 18rem;
-    left: 16rem;
+    top: 16rem;
+    left: 15rem;
 }
