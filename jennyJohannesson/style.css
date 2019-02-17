@@ -1,0 +1,38 @@
+*, html {
+    padding: 0;
+    margin: 0;
+}
+
+h1.name {
+    font-family: 'Gentium Basic', serif;
+    position: absolute;
+    background: -webkit-linear-gradient(#F2A9C0, #4C5B61);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 25rem;
+    margin: 0 auto;
+    bottom: 0;
+    right: 5rem;
+}
+.opener {
+    height: 100vh;
+}
+.bckimg {
+    background-color: #1C1C1C;
+    z-index: -2;
+}
+img.jenny {
+    background: cover;
+    width: 100%;
+    opacity: .5;
+    display: inline;
+}
+.menu_icon i {
+    border: solid 4px #F2A9C0;
+    padding: 2%;
+    position: absolute;
+    z-index: 1;
+    right: 0;
+    margin: 1%;
+    font-size: 2rem;
+}
