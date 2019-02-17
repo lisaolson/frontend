@@ -1,5 +1,5 @@
 # Jenny Johannesson
-This is a recreation of http://www.jonathandacosta.com/ as shown below.  The first image is the original and the second is my rendition.  Images are taken directly from the site.
+This is a rendition of Jenny Johannesson's portfolio site as shown below.  The first image is the original and the second is my rendition.  Images courtesy of unsplash.com.
 
 Original          |  Mine
 :-------------------------:|:-------------------------:
