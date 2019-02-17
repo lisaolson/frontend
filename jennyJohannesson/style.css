@@ -4,15 +4,12 @@
 }
 
 h1.name {
-    font-family: 'Gentium Basic', serif;
+    font-family: 'Gentium Book Basic', serif;
     position: absolute;
-    background: -webkit-linear-gradient(#F2A9C0, #4C5B61);
+    background: -webkit-linear-gradient(#F2A9C0, transparent);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 25rem;
-    margin: 0 auto;
-    bottom: 0;
-    right: 5rem;
+    font-size: 20rem;
 }
 .opener {
     height: 100vh;
@@ -29,10 +26,47 @@ img.jenny {
 }
 .menu_icon i {
     border: solid 4px #F2A9C0;
-    padding: 2%;
+    padding: 1%;
     position: absolute;
     z-index: 1;
     right: 0;
     margin: 1%;
-    font-size: 2rem;
+    font-size: 1.5rem;
+    background: -webkit-linear-gradient(#F2A9C0, transparent);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#cap {
+    text-transform: uppercase;
+}
+.firstpar {
+    font-family: 'Gentium Book Basic', serif;
+    top: 15rem;
+    position: absolute;
+    width: 20%;
+    right: 5rem;
+    color: #333;
+    text-align: justify;
+    z-index: 1;
+}
+
+#j {
+    left: 5rem;
+}
+#e {
+    left: 10rem;
+    top: 4.5rem;
+}
+#n {
+    left: 19rem;
+    top: 7rem;
+}
+#nn {
+    top: 15rem;
+    left: 5rem;
+}
+#y {
+    top: 18rem;
+    left: 16rem;
 }
